@@ -1,0 +1,90 @@
+ html{
+ 	font-family: 'Titillium Web', sans-serif;
+ }
+
+  #nombre{
+ 	font-size: 50px;
+ 	font-weight:bold;
+ 	margin-top: 0;
+ 	margin-bottom: 1rem;
+ }
+
+
+ .seccionblanca {
+    width:60%;
+    margin: 1rem;
+    background-color: #FFFFFF;
+    margin-right: 0;
+    font-weight:bold;
+    
+    
+
+
+}
+ .seccionngra { 
+    background-color:#404040;
+    width:220px;
+    margin: 1rem;
+    margin-left: 0;   
+    }
+ a{
+      text-decoration: none;
+    }
+
+
+
+    #foto{
+      transition: box-shadow 0.3s linear;
+    	 display: block;
+    margin-left: auto;
+    margin-right: auto 	
+    }
+   #foto:hover {
+         box-shadow: 0 0.1rem 1rem white;
+      }
+
+    h1{
+    	text-align: center;
+    	font-weight:bold;
+    	font-size: 30px;
+    	margin-top: 0;
+ 		margin-bottom: 0;
+
+    }
+    td{
+    	padding-right: 5rem;
+    }
+
+ section article{
+ 	float: left;
+ 	padding: 2rem;
+ 	height: 1000px;
+ }
+ section{
+
+ 	width: 80rem;
+ 	margin-right:auto;
+ 	margin-left:auto;
+ 	
+ }
+
+ 
+ body{
+ 	background-color: #525659;
+ }
+ .seccionngra h1,.seccionngra a,.seccionngra p,.seccionngra table{
+ 	color: white;
+ }
+ .seccionngra td{
+ 	padding-right: 2rem;
+ }
+
+ .separadores{
+ 	/*margin: -30px;*/ 
+ 	border: 2px solid #9F9F9F;
+ 	
+ }
+
+
+
+  
